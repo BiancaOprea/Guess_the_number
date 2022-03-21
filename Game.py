@@ -1,4 +1,3 @@
-# vrem sa ne generam un nr random
 import random
 
 
